@@ -1,0 +1,3 @@
+include ':SpinAndWin'
+include ':app'
+rootProject.name = "SpinWeel"
